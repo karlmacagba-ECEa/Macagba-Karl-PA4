@@ -1,6 +1,6 @@
-# 📊 Experiment 4: Data Wrangling and Data Visualization
+# Experiment 4: Data Wrangling and Data Visualization
 
-## 📌 Overview
+## Overview
 
 This repository contains the Jupyter Notebook solution for **PA#4: Data
 Wrangling and Data Visualization**. The activity uses Python's `pandas`
@@ -19,7 +19,7 @@ The notebook focuses on:
 
 ------------------------------------------------------------------------
 
-## 🎯 Intended Learning Outcomes (ILOs)
+## Intended Learning Outcomes (ILOs)
 
 After completing the activity, the student should be able to:
 
@@ -33,7 +33,7 @@ After completing the activity, the student should be able to:
 
 ------------------------------------------------------------------------
 
-## 📊 Dataset Schema
+## Dataset Schema
 
 The analysis uses the **ECE Board Exam 2 dataset (`board2.csv`)**, which
 contains student information and board examination scores.
@@ -101,9 +101,9 @@ contains student information and board examination scores.
 
 ------------------------------------------------------------------------
 
-# 💻 Problem Specifications & Code Solutions
+# Problem Specifications & Code Solutions
 
-## 🔗 Setup & Data Loading
+## Setup & Data Loading
 
 The notebook loads the CSV dataset using Pandas:
 
@@ -208,7 +208,7 @@ display( VisFemale[VisFemale['average'] >= 60])
 
 ------------------------------------------------------------------------
 
-# 📈 Part C: Category-Average Visualization
+# Part C: Category-Average Visualization
 
 ### Requirement
 
@@ -277,7 +277,7 @@ print(
 
 ------------------------------------------------------------------------
 
-## 📋 Summary Tables Output
+## Summary Tables Output
 
 ### Mean Average by Track
 
@@ -304,7 +304,7 @@ print(
 
 ------------------------------------------------------------------------
 
-## 🔎 Observed Category Means
+## Observed Category Means
 
 Based on the notebook's computed results:
 
@@ -320,7 +320,7 @@ board-exam score.
 
 ------------------------------------------------------------------------
 
-## 🧰 Prerequisites & Requirements
+## Prerequisites & Requirements
 
 Ensure Python 3.8+ is installed along with the required libraries.
 
@@ -335,7 +335,7 @@ pip install pandas matplotlib
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run
+## How to Run
 
 1.  Place `board2.csv` in the same directory as the notebook.
 2.  Open `PA_4_Macagba,Karl.ipynb` using Jupyter Notebook or VS Code.
@@ -350,7 +350,7 @@ jupyter notebook
 
 ------------------------------------------------------------------------
 
-## 📌 Key Findings & Empirical Analysis
+## Key Findings & Empirical Analysis
 
 -   **Track:** The Communication group recorded the highest sample mean
     Average (**67.98**), followed by Microelectronics (**67.50**) and
@@ -367,7 +367,7 @@ jupyter notebook
 
 ------------------------------------------------------------------------
 
-## 👤 Student Information
+## Student Information
 
 **Name:** Macagba, Karl\
 **Section:** 2ECE-A\
@@ -376,7 +376,7 @@ jupyter notebook
 
 ------------------------------------------------------------------------
 
-## 📁 Files
+## Files
 
 ``` text
 .
