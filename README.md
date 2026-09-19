@@ -78,7 +78,7 @@ contains student information and board examination scores.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Solutions & Implementation Summary
+## Solutions & Implementation Summary
 
   -----------------------------------------------------------------------------------
   Problem            Main Operation               Selected Features Primary Output
